@@ -1,2 +1,2 @@
 Evaluation of Missing Data Analytical Methods in Longitudinal Research: Traditional and Machine Learning Approaches
-par1: Intercept; par2: Slope; par3: Variance of Intercept; par4: Variance of Slope; par5: Covariance of Intercept and Slope.![image](https://github.com/DandanTang0/Evaluation-of-Missing-Data-Analytical-Methods-in-Longitudinal-Research/assets/150409008/c50caff2-ae8b-4520-8d90-3837decad870)
+par1: Intercept; par2: Slope; par3: Variance of Intercept; par4: Variance of Slope; par5: Covariance of Intercept and Slope.
